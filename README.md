@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/pontusab-resend-mcp-badge.png)](https://mseep.ai/app/pontusab-resend-mcp)
+
 # Resend MCP Server
 
 A Model Context Protocol (MCP) server implementation for the Resend email
