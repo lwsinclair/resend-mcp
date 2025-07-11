@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hawstein-resend-mcp-badge.png)](https://mseep.ai/app/hawstein-resend-mcp)
+
 # Resend MCP Server
 
 A Model Context Protocol (MCP) server implementation for the Resend email
